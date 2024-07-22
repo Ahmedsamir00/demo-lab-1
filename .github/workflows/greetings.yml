@@ -7,4 +7,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name : print Hello
-      run : echo "hello Seif"
+      run : echo "hello ahmedsamir"
